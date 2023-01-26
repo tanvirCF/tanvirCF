@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvir Rahman</h1>
 - 🌱 I’m currently learning **C,C++**
 
-- 📝 I regularly write articles on [www.tanvir.com](www.tanvir.com)
 
 - 📫 How to reach me **rahmantanvirmuhammad@gmail.com**
 
