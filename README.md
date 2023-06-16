@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD TANVIR RAHMAN</h1>
+<h1 align="center">Hi ,I'm MD TANVIR RAHMAN</h1>
 <h3 align="center">I am a CSE undergraduate student at American International University,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvircf&label=Profile%20views&color=0e75b6&style=flat" alt="tanvircf" /> </p>
