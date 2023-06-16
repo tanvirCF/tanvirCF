@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Rahman</h1>
-- 🌱 I’m currently learning **C,C++**
+- 🌱 I’m currently learning JAVA.
 
 
 - 📫 How to reach me **rahmantanvirmuhammad@gmail.com**
